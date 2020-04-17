@@ -150,7 +150,10 @@ int main()
          x = -2 * -2 * -2 * -2 can't because multiple give positive.
             so, the only possibilities
          x = -16^1.
+         For that we make gcd odd.
+         thats why we cut all 2 from gcd.
          here power is odd.
+         
      Alhamdulillah
 */
 
