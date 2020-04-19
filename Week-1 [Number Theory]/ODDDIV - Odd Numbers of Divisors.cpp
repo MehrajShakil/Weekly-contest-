@@ -165,7 +165,7 @@ D(x) returns number of divisors of x.
 
 but this problem limit is too high 10^10.
 you can't go up to 10^10.
-because 10^5 * 10^5 = 10^10.
+Here is a tricks,that is  10^5 * 10^5 = (10^5)^2 = 10^10.
 Or square root of(10^10)=10^5.
 
 so, if we can get 10^5 divisors then we can easily find 10^10 divisors.
